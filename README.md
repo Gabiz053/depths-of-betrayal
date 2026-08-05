@@ -33,3 +33,15 @@ The monster has special abilities, including transforming at will and attacking 
 
 ## Additional Features  
 - The game includes normal and fast swimming modes, with limited stamina to balance movement. Speed boosts and monster slowdowns may be introduced during certain situations.
+
+## Project context
+
+Coursework for a video game development module, built over one term by a team of six. Gabriel Gómez García led the project and worked across the codebase rather than on a single system; the task breakdown per person is in the repository issues and project board.
+
+The result is a playable prototype, not a finished game.
+
+## License and assets
+
+The MIT license applies to the code written by the team.
+
+The repository also contains characters, models, textures and audio produced with third-party tools and assets, which are governed by their own terms. If you plan to reuse anything beyond the source code, check the origin of each asset first.
